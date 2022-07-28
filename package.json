@@ -1,0 +1,20 @@
+{
+  "name": "easy-currency-converter",
+  "version": "1.0.1",
+  "description": "Convert your currency easily",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "currency-converter"
+  ],
+  "author": "adam-ray <raywibowo68@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  }
+}
